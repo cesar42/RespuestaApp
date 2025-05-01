@@ -1,7 +1,7 @@
 {
     "name": "Radio Respuesta TV NET",
     "short_name": "Radio Respuesta",
-    "start_url": "./?mode=pwa",
+    "start_url": "index.html",
     "display": "standalone",
     "background_color": "#3c3c3c",
     "theme_color": "#3c3c3c",
